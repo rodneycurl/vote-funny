@@ -1,1 +1,1 @@
-web: mongod index.js
+web: node index.js
