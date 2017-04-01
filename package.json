@@ -1,0 +1,29 @@
+{
+  "name": "VoteFunny",
+  "version": "1.0.0",
+  "description": "Comedy Central Presents Vote Funny",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodneycurl/vote-funny"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodneycurl/vote-funny/issues"
+  },
+  "homepage": "https://github.com/rodneycurl/vote-funny#readme",
+  "dependencies": {
+    "angular-jwt": "^0.1.9",
+    "angular-lock": "^2.0.1",
+    "auth0-js": "^8.4.0",
+    "body-parser": "^1.17.1",
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.4.11"
+  }
+}

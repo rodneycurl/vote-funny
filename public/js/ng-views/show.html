@@ -1,0 +1,47 @@
+<div class="nav">
+    <div>
+    <a href="#/shows">VOTE FUNNY!</a>
+    </div>
+    <div ng-if="!isAuthenticated">
+    <a href="javascript:;" ng-click="vm.authService.login()">Log In</a>
+    </div>
+    <div ng-if="isAuthenticated">
+    <a href="javascript:;" ng-click="vm.authService.logout()">Log out</a>
+    </div>
+</div>
+
+<h2 style="background-image:url({{vm.show.image}})"><a href="{{vm.show.url}}">{{vm.show.name}}</a></h2>
+
+<div class="showpage">
+  <iframe width="720" height="380" src="{{vm.show.video}}" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="votebutton"
+  <button data-ng-click="vm.vote()">Vote!</button>
+</div>
+
+<div class="votes"
+  <p>Votes: {{vm.show.vote}}</p>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div class="edit-show">
+  <input type="text" ng-model="vm.show.name" placeholder="Show Name" />
+  <input type="text" ng-model="vm.show.url" placeholder="Show URL" />
+  <input type="text" ng-model="vm.show.image" placeholder="Image URL" />
+  <input type="text" ng-model="vm.show.video" placeholder="Video URL" />
+  <br>
+  <button data-ng-click="vm.update()">Edit Show</button>
+  <button data-ng-click="vm.destroy()">Delete Show</button>
+</div>
