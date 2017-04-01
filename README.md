@@ -1,4 +1,4 @@
-# Vote Funny (meanLab)
+# Comedy Central Presents: Vote Funny
 Rodney Curl (https://github.com/rodneycurl)
 
 I decided to produce a website where fans can upload and vote on their favorite Comedy Central show to prove which one is the funniest of them all.
