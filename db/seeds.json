@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Archer",
+    "image": "http://1.images.comedycentral.com/images/tve/archer/featured_assets/ARCHER_NextGen_Spotlight_NoLogo_1920x1080.jpg?quality=0.85&width=622&height=350&crop=true",
+    "video": "https://www.youtube.com/embed/xil_h_wfeNo",
+    "url": "http://www.cc.com/shows/archer",
+    "vote": 0
+  },
+  {
+    "name": "Chappelle's Show",
+    "image": "http://1.images.comedycentral.com/images/shows/chappelle/CHAPPELLE_NextGen_Spotlight_NoLogo_1920x1080.jpg?quality=0.85&width=736&height=414&crop=true",
+    "video": "https://www.youtube.com/embed/Ybv94PHccIQ",
+    "url": "http://www.cc.com/shows/chappelle-s-show",
+    "vote": 0
+  },
+  {
+    "name": "Drunk History",
+    "image": "http://1.images.comedycentral.com/images/shows/drunk_history/DH_NextGen_Spotlight_NoLogo_1920x1080.jpg?quality=0.85&width=736&height=414&crop=true",
+    "video": "https://www.youtube.com/embed/R-mU4pf3ywU",
+    "url": "http://www.cc.com/shows/drunk-history",
+    "vote": 0
+  },
+  {
+    "name": "Inside Amy Schumer",
+    "image": "http://1.images.comedycentral.com/images/shows/inside_amy_schumer/ISA_NextGen_Spotlight_NoLogo_1920x1080.jpg?quality=0.85&width=736&height=414&crop=true",
+    "video": "https://www.youtube.com/embed/XPpsI8mWKmg",
+    "url": "http://www.cc.com/shows/inside-amy-schumer",
+    "vote": 0
+  },
+  {
+    "name": "Hart of the City",
+    "image": "http://1.images.comedycentral.com/images/ccstandup/comedians/HartoftheCity.jpg?quality=0.85&width=736&height=414&crop=true",
+    "video": "https://www.youtube.com/embed/QWLzWpQa-uU",
+    "url": "http://www.cc.com/shows/hart-of-the-city",
+    "vote": 0
+  },
+  {
+    "name": "Kroll Show",
+    "image": "http://1.images.comedycentral.com/images/shows/kroll_show/KrollShow_NextGen_Spotlight_NoLogo_1920x1080.jpg?quality=0.85&width=736&height=414&crop=true",
+    "video": "https://www.youtube.com/embed/d_rfk43jNZ4",
+    "url": "http://www.cc.com/shows/kroll-show",
+    "vote": 0
+  },
+  {
+    "name": "Key And Peele",
+    "image": "http://1.images.comedycentral.com/images/shows/key_and_peele/KEY_PEELE_NextGen_Spotlight_NoLogo_1920x1080.jpg?quality=0.85&width=736&height=414&crop=true",
+    "video": "https://www.youtube.com/embed/14WE3A0PwVs",
+    "url": "http://www.cc.com/shows/key-and-peele",
+    "vote": 0
+  },
+  {
+    "name": "Reno 911!",
+    "image": "http://1.images.comedycentral.com/images/shows/reno911/Reno911_NextGen_Spotlight_NoLogo_1920x1080.jpg?quality=0.85&width=736&height=414&crop=true",
+    "video": "https://www.youtube.com/embed/0GdE3PFAdLw",
+    "url": "http://www.cc.com/shows/reno-911-",
+    "vote": 0
+  },
+  {
+    "name": "South Park",
+    "image": "http://1.images.comedycentral.com/images/shows/southpark/SP_NextGen_Spotlight_NoLogo_1920x1080.jpg?quality=0.85&width=736&height=414&crop=true",
+    "video": "https://www.youtube.com/embed/WgvTgV5EoGY",
+    "url": "http://southpark.cc.com/",
+    "vote": 0
+  },
+  {
+    "name": "Tosh.0",
+    "image": "http://1.images.comedycentral.com/images/shows/toshpt0/TOSH_NextGen_Spotlight_NoLogo_1920x1080.jpg?quality=0.85&width=736&height=414&crop=true",
+    "video": "https://www.youtube.com/embed/hRwyptAy5jc",
+    "url": "http://www.cc.com/shows/tosh",
+    "vote": 0
+  },
+  {
+    "name": "Workaholics",
+    "image": "http://1.images.comedycentral.com/images/shows/workaholics/workaholics/WHX_S7_NextGen_Spotlight_NoLogo_1920x1080.jpg?quality=0.85&width=736&height=414&crop=true",
+    "video": "https://www.youtube.com/embed/qMzt3yQFT-Q",
+    "url": "http://www.cc.com/shows/workaholics",
+    "vote": 0
+  }
+]
