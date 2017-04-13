@@ -11,6 +11,10 @@ var ShowSchema = new mongoose.Schema(
 );
 
 mongoose.model("Show", ShowSchema);
-mongoose.connect("mongodb://localhost/votefunny");
-
+// mongoose.connect("mongodb://localhost/votefunny");
+if(process.env.NODE_ENV == "production"){
+  mongoose.connect(process.env.MONGOLAB_URL);
+}else{
+  mongoose.connect("mongodb://localhost/votefunny");
+}
 module.exports = mongoose;
