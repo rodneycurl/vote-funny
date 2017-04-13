@@ -11,6 +11,6 @@ var ShowSchema = new mongoose.Schema(
 );
 
 mongoose.model("Show", ShowSchema);
-mongoose.connect("mongodb://vote-funny-backend.herokuapp.com/");
+mongoose.connect("mongodb://localhost/votefunny");
 
 module.exports = mongoose;
