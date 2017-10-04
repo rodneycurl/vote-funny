@@ -41,11 +41,11 @@ app.post("/api/shows", function(req, res){
   })
 });
 
-// app.delete("/api/shows/:name", function(req, res){
-//   Show.findOneAndRemove({name: req.params.name}).then(function(show){
-//     res.json({ success: true })
-//   })
-// });
+app.delete("/api/shows/:name", function(req, res){
+  Show.findOneAndRemove({name: req.params.name}).then(function(show){
+    res.json({ success: true })
+  })
+});
 
 app.put("/api/shows/:name", function(req, res){
   Show.findOneAndUpdate({name: req.params.name}, req.body, {new: true}).then(function(show){
