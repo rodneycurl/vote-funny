@@ -1,8 +1,8 @@
 [
   {
     "name": "Archer",
-    "image": "http://1.images.comedycentral.com/images/tve/archer/featured_assets/ARCHER_NextGen_Spotlight_NoLogo_1920x1080.jpg?quality=0.85&width=622&height=350&crop=true",
-    "video": "https://www.youtube.com/embed/xil_h_wfeNo",
+    "image": "http://www.indiewire.com/wp-content/uploads/2016/06/archer-photo-credit-fx.jpg",
+    "video": "https://www.youtube.com/embed/l7r4WoDFymU",
     "url": "http://www.cc.com/shows/archer",
     "vote": 0
   },
@@ -21,24 +21,24 @@
     "vote": 0
   },
   {
-    "name": "Inside Amy Schumer",
-    "image": "http://1.images.comedycentral.com/images/shows/inside_amy_schumer/ISA_NextGen_Spotlight_NoLogo_1920x1080.jpg?quality=0.85&width=736&height=414&crop=true",
-    "video": "https://www.youtube.com/embed/XPpsI8mWKmg",
-    "url": "http://www.cc.com/shows/inside-amy-schumer",
+    "name": "The Simpsons",
+    "image": "http://jonvilma.com/images/the-simpsons-6.jpg",
+    "video": "https://www.youtube.com/embed/tLSy8Tl2bjs",
+    "url": "http://www.simpsonsworld.com/",
     "vote": 0
   },
   {
-    "name": "Hart of the City",
-    "image": "http://1.images.comedycentral.com/images/ccstandup/comedians/HartoftheCity.jpg?quality=0.85&width=736&height=414&crop=true",
-    "video": "https://www.youtube.com/embed/QWLzWpQa-uU",
-    "url": "http://www.cc.com/shows/hart-of-the-city",
+    "name": "The Boondocks",
+    "image": "https://pogd.es/assets/bg/The-Boondocks.jpg",
+    "video": "https://www.youtube.com/embed/fB6ZWJy9_K8",
+    "url": "http://www.adultswim.com/videos/the-boondocks/",
     "vote": 0
   },
   {
-    "name": "Kroll Show",
-    "image": "http://1.images.comedycentral.com/images/shows/kroll_show/KrollShow_NextGen_Spotlight_NoLogo_1920x1080.jpg?quality=0.85&width=736&height=414&crop=true",
-    "video": "https://www.youtube.com/embed/d_rfk43jNZ4",
-    "url": "http://www.cc.com/shows/kroll-show",
+    "name": "Idiotsitter",
+    "image": "https://comedycentral.mtvnimages.com/images/shows/idiotsitter/TV_Schedule/IDIOTSITTER_HubImage_1280x1280.jpg?quality=0.85&width=736&height=414&crop=true",
+    "video": "https://www.youtube.com/embed/CViCXpkG25A",
+    "url": "http://www.cc.com/shows/idiotsitter",
     "vote": 0
   },
   {
